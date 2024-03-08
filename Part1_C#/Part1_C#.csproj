@@ -1,0 +1,78 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Part1_C_</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Section4\OOP.cs" />
+    <Compile Remove="Section4\Program.cs" />
+    <Compile Remove="Section4\S4_10.cs" />
+    <Compile Remove="Section4\S4_4.cs" />
+    <Compile Remove="Section4\S4_5.cs" />
+    <Compile Remove="Section4\S4_6.cs" />
+    <Compile Remove="Section4\S4_7.cs" />
+    <Compile Remove="Section4\S4_8.cs" />
+    <Compile Remove="Section4\S4_9.cs" />
+    <Compile Remove="Section5\Creature.cs" />
+    <Compile Remove="Section5\Game.cs" />
+    <Compile Remove="Section5\Monster.cs" />
+    <Compile Remove="Section5\Player.cs" />
+    <Compile Remove="Section5\Program.cs" />
+    <Compile Remove="Section6\S6_1.cs" />
+    <Compile Remove="Section6\S6_2.cs" />
+    <Compile Remove="Section6\S6_3.cs" />
+    <Compile Remove="Section6\S6_4.cs" />
+    <Compile Remove="Section6\S6_5.cs" />
+    <Compile Remove="Section7\InputManager%28S7_5%29.cs" />
+    <Compile Remove="Section7\S7_1.cs" />
+    <Compile Remove="Section7\S7_2.cs" />
+    <Compile Remove="Section7\S7_3.cs" />
+    <Compile Remove="Section7\S7_4.cs" />
+    <Compile Remove="Section7\S7_5.cs" />
+    <Compile Remove="Section7\S7_6.cs" />
+    <Compile Remove="Section7\S7_7.cs" />
+    <Compile Remove="Section7\S7_8.cs" />
+    <Compile Remove="Section7\S7_9.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Section4\S4_10.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Section4\OOP.cs" />
+    <None Include="Section4\Program.cs" />
+    <None Include="Section4\S4_4.cs" />
+    <None Include="Section4\S4_5.cs" />
+    <None Include="Section4\S4_6.cs" />
+    <None Include="Section4\S4_7.cs" />
+    <None Include="Section4\S4_8.cs" />
+    <None Include="Section4\S4_9.cs" />
+    <None Include="Section5\Creature.cs" />
+    <None Include="Section5\Game.cs" />
+    <None Include="Section5\Monster.cs" />
+    <None Include="Section5\Player.cs" />
+    <None Include="Section5\Program.cs" />
+    <None Include="Section6\S6_1.cs" />
+    <None Include="Section6\S6_2.cs" />
+    <None Include="Section6\S6_3.cs" />
+    <None Include="Section6\S6_4.cs" />
+    <None Include="Section6\S6_5.cs" />
+    <None Include="Section7\InputManager(S7_5).cs" />
+    <None Include="Section7\S7_1.cs" />
+    <None Include="Section7\S7_2.cs" />
+    <None Include="Section7\S7_3.cs" />
+    <None Include="Section7\S7_4.cs" />
+    <None Include="Section7\S7_5.cs" />
+    <None Include="Section7\S7_6.cs" />
+    <None Include="Section7\S7_7.cs" />
+    <None Include="Section7\S7_8.cs" />
+    <None Include="Section7\S7_9.cs" />
+  </ItemGroup>
+
+</Project>
